@@ -3,3 +3,4 @@ snorkel
 pandas
 pyarrow
 numpy
+wordcloud
